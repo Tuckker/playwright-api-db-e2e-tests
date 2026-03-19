@@ -60,7 +60,7 @@ DB_PORT=5432
 
 ## Test Coverage
 
-UI: - Login - Cart - Checkout
+UI: - Launch App - Login - Cart - Checkout
 
 API: - Auth (JWT) - Create Task (POST) - Get Task (GET) - Update Task
 (PUT)
