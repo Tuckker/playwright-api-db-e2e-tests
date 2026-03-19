@@ -29,9 +29,12 @@ Actions
 1.  Clone the repo: git clone
     https://github.com/YOUR_USERNAME/YOUR_REPO.git cd YOUR_REPO
 
-2.  Install dependencies: npm install
+2.  Install dependencies: npm install ,
+3.  Initialize node and create package.json : npx playwright --init --y
+4.  Install playwright Test(dev dependency) : npx init playwright@latest
 
-3.  Install browsers: npx playwright install
+5.  Install browsers: npx playwright install
+6.  For DB testing install pg : npm install pm
 
 ## Running Tests
 
